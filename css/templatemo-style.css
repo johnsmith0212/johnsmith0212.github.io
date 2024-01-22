@@ -868,3 +868,7 @@ textarea.form-control {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 60px;
 }
+.thumb img {
+  width: 370px;
+  height: 400px;
+}
